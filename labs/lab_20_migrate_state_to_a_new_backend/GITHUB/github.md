@@ -1,0 +1,1 @@
+# There are no GitHub-based remote state backends in Terraform, so this lab has no direct GitHub equivalent.
